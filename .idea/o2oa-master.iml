@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/applicationserver/x_organization_assemble_express/dist/x_organization_assemble_express/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web2">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/applicationserver/x_weather_assemble_control/build/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/applicationserver/x_weather_assemble_control/build" relative="/" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+    <facet type="jpa" name="JPA">
+      <configuration>
+        <setting name="validation-enabled" value="true" />
+        <setting name="provider-name" value="" />
+        <datasource-mapping>
+          <factory-entry name="enhance" />
+        </datasource-mapping>
+        <deploymentDescriptor name="persistence.xml" url="file://$MODULE_DIR$/centerserver/x_program_center_core_entity/src/main/resources/META-INF/persistence.xml" />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web3">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/out/artifacts/o2oa_master_war_exploded/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/out/artifacts/o2oa_master_war_exploded" relative="/" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+    <facet type="Spring" name="Spring">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/src/main/webapp/WEB-INF/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_calendar_assemble_control/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_organization_assemble_authentication/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_message_assemble_communicate/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_attendance_assemble_control/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_cms_core_entity/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_okr_assemble_control/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/manageserver/m_console/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_mind_assemble_control/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/centerserver/x_program_center/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_processplatform_service_processing/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_face_core_entity/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/centerserver/c_build/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_report_assemble_control/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_weather_assemble_control/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_organization_assemble_control/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_organization_assemble_authentication/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/a_build/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_query_assemble_designer/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_organization_assemble_personal/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_strategydeploy_core_entity/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_crm_core_entity/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_meeting_assemble_control/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_query_core_entity/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_meeting_core_entity/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_portal_assemble_designer/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_query_assemble_designer/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_crm_assemble_control/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_file_assemble_control/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_message_assemble_communicate/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_mind_core_entity/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_okr_core_entity/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_report_assemble_control/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_processplatform_assemble_designer/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_attendance_assemble_control/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_collaboration_service_message/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_organization_assemble_express/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_organization_assemble_custom/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_bbs_core_entity/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_message_assemble_communicate/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/centerserver/x_program_center/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_face_assemble_control/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_query_assemble_designer/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_query_assemble_surface/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_crm_assemble_control/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_weather_core_entity/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_organization_assemble_express/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_organization_assemble_personal/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_file_assemble_control/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_portal_assemble_surface/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_file_core_entity/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_collaboration_assemble_websocket/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_calendar_core_entity/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_processplatform_assemble_surface/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_component_assemble_control/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_attendance_core_entity/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_hotpic_assemble_control/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_collaboration_core_message/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_organization_assemble_control/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_strategydeploy_assemble_control/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_processplatform_assemble_designer/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_organization_core_entity/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_calendar_assemble_control/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_query_assemble_surface/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_component_core_entity/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_okr_assemble_control/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_base_core_project/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_processplatform_assemble_surface/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_message_core_entity/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_organization_assemble_authentication/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_organization_core_express/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_strategydeploy_assemble_control/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_component_assemble_control/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_meeting_assemble_control/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_file_assemble_control/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_base_core_project/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_portal_core_entity/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_processplatform_assemble_designer/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_processplatform_service_processing/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_report_core_entity/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_portal_assemble_designer/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_processplatform_core_entity/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/centerserver/x_program_center/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_meeting_assemble_control/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/manageserver/m_build/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_processplatform_service_processing/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_collaboration_core_entity/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_strategydeploy_assemble_control/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_cms_assemble_control/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_processplatform_core_entity/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_organization_assemble_custom/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/a_build/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_organization_core_express/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/manageserver/m_console/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_bbs_assemble_control/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_collaboration_assemble_websocket/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_processplatform_assemble_surface/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_collaboration_service_message/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_collaboration_core_message/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_processplatform_core_serial/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/manageserver/m_build/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_mind_assemble_control/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_organization_assemble_express/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_face_assemble_control/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_cms_assemble_search/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_face_assemble_control/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_organization_assemble_control/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_processplatform_assemble_bam/describe/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_collaboration_service_message/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_organization_core_entity/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/centerserver/x_program_center_core_entity/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_hotpic_assemble_control/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_hotpic_core_entity/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_file_core_entity/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_processplatform_assemble_bam/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_crm_assemble_control/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applicationserver/x_portal_assemble_surface/src/main/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/webapp/WEB-INF/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/m_console.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/o2_base_core_project.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/o2_collect_assemble.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/o2_collect_console.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/o2_collect_core_entity.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/x_attendance_core_entity.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/x_base_core_project.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/x_bbs_core_entity.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/x_calendar_core_entity.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/x_cms_core_entity.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/x_collaboration_core_entity.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/x_collaboration_core_message.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/x_component_core_entity.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/x_file_core_entity.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/x_hotpic_core_entity.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/x_meeting_core_entity.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/x_message_core_entity.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/x_mind_core_entity.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/x_okr_core_entity.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/x_organization_core_entity.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/x_organization_core_express.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/x_portal_core_entity.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/x_processplatform_core_entity.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/x_processplatform_core_serial.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/x_program_center_core_entity.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/x_query_core_entity.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/x_report_core_entity.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/store/jars/x_strategydeploy_core_entity.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Maven: org.springframework:spring-core:4.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-beans:4.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context:4.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-expression:4.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context-support:4.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-aop:4.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: aopalliance:aopalliance:1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-tx:4.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-orm:4.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-jdbc:4.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.hibernate:hibernate-validator:5.2.4.Final" level="project" />
+    <orderEntry type="library" name="Maven: javax.validation:validation-api:1.1.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.logging:jboss-logging:3.2.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml:classmate:1.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.aspectj:aspectjrt:1.7.4" level="project" />
+    <orderEntry type="library" name="Maven: org.aspectj:aspectjweaver:1.7.4" level="project" />
+    <orderEntry type="library" name="Maven: cglib:cglib:3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm:4.2" level="project" />
+    <orderEntry type="library" name="Maven: org.mybatis:mybatis:3.2.8" level="project" />
+    <orderEntry type="library" name="Maven: org.mybatis:mybatis-spring:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:druid:1.0.18" level="project" />
+    <orderEntry type="module-library">
+      <library name="Maven: com.alibaba:jconsole:1.8.0">
+        <CLASSES>
+          <root url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/lib/jconsole.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Maven: com.alibaba:tools:1.8.0">
+        <CLASSES>
+          <root url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/lib/tools.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="RUNTIME" name="Maven: mysql:mysql-connector-java:5.1.30" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: net.sourceforge.jtds:jtds:1.3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-web:4.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:4.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-oxm:4.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: opensymphony:sitemesh:2.4.2" level="project" />
+    <orderEntry type="library" name="Maven: taglibs:standard:1.1.2" level="project" />
+    <orderEntry type="library" name="Maven: javax.servlet:jstl:1.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: javax.servlet:servlet-api:2.5" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: javax.servlet.jsp:jsp-api:2.1" level="project" />
+    <orderEntry type="library" name="Maven: net.sf.ehcache:ehcache-core:2.6.11" level="project" />
+    <orderEntry type="library" name="Maven: net.sf.ehcache:ehcache-web:2.0.4" level="project" />
+    <orderEntry type="library" name="Maven: redis.clients:jedis:2.5.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-pool2:2.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.shiro:shiro-core:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.shiro:shiro-spring:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.shiro:shiro-cas:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.jasig.cas.client:cas-client-core:3.2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.shiro:shiro-web:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.shiro:shiro-ehcache:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.activiti:activiti-engine:5.21.0" level="project" />
+    <orderEntry type="library" name="Maven: org.activiti:activiti-bpmn-converter:5.21.0" level="project" />
+    <orderEntry type="library" name="Maven: org.activiti:activiti-bpmn-model:5.21.0" level="project" />
+    <orderEntry type="library" name="Maven: org.activiti:activiti-process-validation:5.21.0" level="project" />
+    <orderEntry type="library" name="Maven: org.activiti:activiti-image-generator:5.21.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-email:1.4" level="project" />
+    <orderEntry type="library" name="Maven: com.sun.mail:javax.mail:1.5.2" level="project" />
+    <orderEntry type="library" name="Maven: joda-time:joda-time:2.6" level="project" />
+    <orderEntry type="library" name="Maven: org.activiti:activiti-spring:5.21.0" level="project" />
+    <orderEntry type="library" name="Maven: commons-dbcp:commons-dbcp:1.4" level="project" />
+    <orderEntry type="library" name="Maven: org.activiti:activiti-explorer:5.21.0" level="project" />
+    <orderEntry type="library" name="Maven: org.activiti:activiti-json-converter:5.21.0" level="project" />
+    <orderEntry type="library" name="Maven: math.geom2d:javaGeom:0.11.1" level="project" />
+    <orderEntry type="library" name="Maven: org.activiti:activiti-crystalball:5.21.0" level="project" />
+    <orderEntry type="library" name="Maven: com.h2database:h2:1.3.176" level="project" />
+    <orderEntry type="library" name="Maven: org.imgscalr:imgscalr-lib:4.2" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.groovy:groovy-all:2.4.5" level="project" />
+    <orderEntry type="library" name="Maven: org.activiti:activiti-modeler:5.21.0" level="project" />
+    <orderEntry type="library" name="Maven: org.activiti:activiti-common-rest:5.21.0" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-config:3.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-core:3.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-crypto:3.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-web:3.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-parser:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-awt-util:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-util:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-xml:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-transcoder:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:fop:0.94" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:xmlgraphics-commons:1.2" level="project" />
+    <orderEntry type="library" name="Maven: commons-logging:commons-logging:1.0.4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.avalon.framework:avalon-framework-api:4.3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.avalon.framework:avalon-framework-impl:4.3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-dom:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-gvt:1.7" level="project" />
+    <orderEntry type="library" name="Maven: xml-apis:xml-apis-ext:1.3.04" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-bridge:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-anim:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-ext:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-script:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-js:1.7" level="project" />
+    <orderEntry type="library" name="Maven: xml-apis:xml-apis:1.3.04" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-codec:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-css:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-svg-dom:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-svggen:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.activiti:activiti-diagram-rest:5.21.0" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.7" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-log4j12:1.7.7" level="project" />
+    <orderEntry type="library" name="Maven: log4j:log4j:1.2.17" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:jcl-over-slf4j:1.7.7" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:jul-to-slf4j:1.7.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.8.1" level="project" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:2.4" level="project" />
+    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.9" level="project" />
+    <orderEntry type="library" name="Maven: commons-fileupload:commons-fileupload:1.3.1" level="project" />
+    <orderEntry type="library" name="Maven: commons-beanutils:commons-beanutils:1.9.1" level="project" />
+    <orderEntry type="library" name="Maven: commons-collections:commons-collections:3.2.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:17.0" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.2.3" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.2.3" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.2.3" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.2.3" level="project" />
+    <orderEntry type="library" name="Maven: com.thoughtworks.xstream:xstream:1.4.7" level="project" />
+    <orderEntry type="library" name="Maven: xmlpull:xmlpull:1.1.3.1" level="project" />
+    <orderEntry type="library" name="Maven: xpp3:xpp3_min:1.1.4c" level="project" />
+    <orderEntry type="library" name="Maven: net.sf.dozer:dozer:5.5.1" level="project" />
+    <orderEntry type="library" name="Maven: org.freemarker:freemarker:2.3.20" level="project" />
+    <orderEntry type="library" name="Maven: javax.mail:mail:1.4.7" level="project" />
+    <orderEntry type="library" name="Maven: javax.activation:activation:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.poi:poi:4.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.poi:poi-ooxml:3.9" level="project" />
+    <orderEntry type="library" name="Maven: dom4j:dom4j:1.6.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.poi:poi-ooxml-schemas:3.9" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlbeans:xmlbeans:2.3.0" level="project" />
+    <orderEntry type="library" name="Maven: stax:stax-api:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: com.drewnoakes:metadata-extractor:2.6.2" level="project" />
+    <orderEntry type="library" name="Maven: com.adobe.xmp:xmpcore:5.1.2" level="project" />
+    <orderEntry type="library" name="Maven: xerces:xercesImpl:2.8.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.zxing:core:2.2" level="project" />
+    <orderEntry type="library" name="Maven: com.google.zxing:javase:2.2" level="project" />
+    <orderEntry type="module-library">
+      <library name="Maven: javax.cache:cache-api:1.1.0">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/javax/cache-api-1.1.0-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Maven: javax.cache:javaee-api:7.0">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/javax/javaee-api-7.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Maven: javax.javaee:javaee:6.0-alpha-1" level="project" />
+    <orderEntry type="library" name="Maven: javax.enterprise.deploy:deployment-api:1.2-rev-1" level="project" />
+    <orderEntry type="library" name="Maven: javax.ejb:ejb-api:3.0-alpha-1" level="project" />
+    <orderEntry type="library" name="Maven: javax.persistence:persistence-api:1.0-rev-1" level="project" />
+    <orderEntry type="library" name="Maven: javax.jms:jms-api:1.1-rev-1" level="project" />
+    <orderEntry type="library" name="Maven: javax.security:security-api:1.1-rev-1" level="project" />
+    <orderEntry type="library" name="Maven: javax.resource:connector-api:1.6-alpha-1" level="project" />
+    <orderEntry type="library" name="Maven: javax.annotation:jsr250-api:1.0" level="project" />
+    <orderEntry type="library" name="Maven: javax.jws:jsr181-api:1.0-MR1" level="project" />
+    <orderEntry type="library" name="Maven: javax.xml.soap:saaj-api:1.3" level="project" />
+    <orderEntry type="library" name="Maven: javax.xml.ws:jaxws-api:2.0" level="project" />
+    <orderEntry type="library" name="Maven: javax.xml:jaxrpc-api:1.1" level="project" />
+    <orderEntry type="library" name="Maven: javax.xml.bind:jaxb-api:2.1" level="project" />
+    <orderEntry type="library" name="Maven: javax.xml.stream:stax-api:1.0-2" level="project" />
+    <orderEntry type="library" name="Maven: org.glassfish.api:mail:1.4-rev-1" level="project" />
+    <orderEntry type="library" name="Maven: javax.transaction:transaction-api:1.1-rev-1" level="project" />
+    <orderEntry type="library" name="Maven: javax.faces:jsf-api:1.2_08" level="project" />
+    <orderEntry type="library" name="Maven: javax.servlet.jsp.jstl:jstl-api:1.2-rev-1" level="project" />
+    <orderEntry type="library" name="Maven: javax.management.j2ee:management-api:1.1-rev-1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.openjpa:openjpa:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: net.sourceforge.serp:serp:1.15.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.geronimo.specs:geronimo-jms_1.1_spec:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.geronimo.specs:geronimo-jta_1.1_spec:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: commons-pool:commons-pool:1.6" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xbean:xbean-asm6-shaded:4.8" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.geronimo.specs:geronimo-jpa_2.1_spec:1.0-alpha-1" level="project" />
+    <orderEntry type="library" name="Maven: org.glassfish.jersey.core:jersey-client:2.27" level="project" />
+    <orderEntry type="library" name="Maven: javax.ws.rs:javax.ws.rs-api:2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.glassfish.jersey.core:jersey-common:2.27" level="project" />
+    <orderEntry type="library" name="Maven: javax.annotation:javax.annotation-api:1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.glassfish.hk2:osgi-resource-locator:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.glassfish.hk2.external:javax.inject:2.5.0-b42" level="project" />
+    <orderEntry type="library" name="Maven: org.glassfish.jersey.media:jersey-media-json-jackson:2.27" level="project" />
+    <orderEntry type="library" name="Maven: org.glassfish.jersey.ext:jersey-entity-filtering:2.27" level="project" />
+    <orderEntry type="library" name="Maven: org.glassfish.jersey.media:jersey-media-multipart:2.27" level="project" />
+    <orderEntry type="library" name="Maven: org.jvnet.mimepull:mimepull:1.9.6" level="project" />
+    <orderEntry type="library" name="Maven: io.github.lukehutch:fast-classpath-scanner:2.18.1" level="project" />
+    <orderEntry type="module-library">
+      <library name="Maven: org.opencv:opencv:3.4.0">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/opencv/opencv-340.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-collections4:4.2" level="project" />
+    <orderEntry type="library" name="Maven: com.github.stuxuhai:jpinyin:1.1.8" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-data-jpa:2.0.1.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter:2.0.1.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:2.0.1.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.0.1.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-logging:2.0.1.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: ch.qos.logback:logback-classic:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: ch.qos.logback:logback-core:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-to-slf4j:2.10.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-api:2.10.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.yaml:snakeyaml:1.19" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-aop:2.0.1.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-jdbc:2.0.1.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: com.zaxxer:HikariCP:2.7.8" level="project" />
+    <orderEntry type="library" name="Maven: org.hibernate:hibernate-core:5.2.16.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.hibernate.javax.persistence:hibernate-jpa-2.1-api:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: antlr:antlr:2.7.7" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss:jandex:2.0.3.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.hibernate.common:hibernate-commons-annotations:5.0.1.Final" level="project" />
+    <orderEntry type="library" name="Maven: javax.transaction:javax.transaction-api:1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.data:spring-data-jpa:2.0.6.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.data:spring-data-commons:2.0.6.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-aspects:5.0.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.javassist:javassist:3.23.1-GA" level="project" />
+    <orderEntry type="library" name="Maven: com.jcraft:jsch:0.1.54" level="project" />
+    <orderEntry type="library" name="Maven: org.quartz-scheduler:quartz:2.3.0" level="project" />
+    <orderEntry type="library" name="Maven: com.mchange:c3p0:0.9.5.2" level="project" />
+    <orderEntry type="library" name="Maven: com.mchange:mchange-commons-java:0.2.11" level="project" />
+    <orderEntry type="library" name="Maven: com.zaxxer:HikariCP-java6:2.3.13" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.ant:ant:1.10.5" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.ant:ant-launcher:1.10.5" level="project" />
+    <orderEntry type="library" name="Maven: junit:junit:4.11" level="project" />
+    <orderEntry type="library" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-test:4.2.3.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.projectlombok:lombok:1.16.6" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.31" level="project" />
+    <orderEntry type="library" name="Maven: com.qiniu:qiniu-java-sdk:7.2.17" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.okhttp3:okhttp:3.3.1" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.okio:okio:1.8.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.6.2" level="project" />
+    <orderEntry type="library" name="Maven: com.qiniu:happy-dns-java:0.1.4" level="project" />
+    <orderEntry type="library" name="Maven: com.zrk1000:spring-boot-mvc-ueditor-qiniu:ueditor1.4.3.3-qiniu7.2.X" level="project" />
+    <orderEntry type="library" name="Maven: org.json:json:20151123" level="project" />
+  </component>
+</module>

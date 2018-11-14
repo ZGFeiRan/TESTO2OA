@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.zrk1000:spring-boot-mvc-ueditor-qiniu:ueditor1.4.3.3-qiniu7.2.X">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/zrk1000/spring-boot-mvc-ueditor-qiniu/ueditor1.4.3.3-qiniu7.2.X/spring-boot-mvc-ueditor-qiniu-ueditor1.4.3.3-qiniu7.2.X.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/zrk1000/spring-boot-mvc-ueditor-qiniu/ueditor1.4.3.3-qiniu7.2.X/spring-boot-mvc-ueditor-qiniu-ueditor1.4.3.3-qiniu7.2.X-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/zrk1000/spring-boot-mvc-ueditor-qiniu/ueditor1.4.3.3-qiniu7.2.X/spring-boot-mvc-ueditor-qiniu-ueditor1.4.3.3-qiniu7.2.X-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
